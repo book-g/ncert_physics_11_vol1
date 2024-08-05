@@ -7,8 +7,8 @@ a straight line, position to the right of the origin is taken as positive and to
 negative. The average speed of an object is greater or equal to the magnitude of the average
 velocity over a given time interval.`,
 `Instantaneous velocity or simply velocity is defined as the limit of the average velocity
-as the time interval ∆t becomes infinitesimally small : ${equation.instantaneous_velocity} The velocity at a particular instant is equal to the slope of the tangent drawn on
-position-time graph at that instant.`
+as the time interval ∆t becomes infinitesimally small : $$ ${equation.instantaneous_velocity} $$ The velocity at a particular instant is equal to the slope of the tangent drawn on
+position-time graph at that instant.`,
 
 ];
 
